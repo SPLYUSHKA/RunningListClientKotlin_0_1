@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="back_1_splash_screen">#EDAF7A</color>
+    <color name="back_2_splash_screen">#EFB584</color>
+    <color name="back_3_splash_screen">#E1A878</color>
+    <color name="back_4_splash_screen">#B0714E</color>
+    <color name="back_5_splash_screen">#AC6B46</color>
+    <color name="black_alpha_25">#BFBFBF</color>
+    <color name="login_text_f_1">#EDB280</color>
+    <color name="login_text_f_2">#F2BC8E</color>
+    <color name="buttonLogin">#794D34</color>
+    <color name="CheakBox">#F2E4E4</color>
+    <color name="textFieldAddTask">#261D14</color>
+    <color name="textFiledAddTask2">#695139</color>
+    <color name="buttonbackMain">#E1AD76</color>
+    <color name="buttonmain">#804F2A</color>
+
+</resources>
